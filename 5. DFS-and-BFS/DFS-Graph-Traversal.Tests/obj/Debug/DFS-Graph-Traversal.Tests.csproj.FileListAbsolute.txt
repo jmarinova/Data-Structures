@@ -1,8 +1,0 @@
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.dll
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.pdb
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.exe
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.pdb
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.csprojResolveAssemblyReference.cache
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.dll
-C:\Users\Joana\Downloads\5. DFS-and-BFS\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.pdb
