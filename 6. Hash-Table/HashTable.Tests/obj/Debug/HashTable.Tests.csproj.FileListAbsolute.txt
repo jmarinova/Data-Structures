@@ -1,0 +1,8 @@
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.Tests.dll
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.Tests.pdb
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.exe
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\bin\Debug\HashTable.pdb
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.dll
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable.Tests\obj\Debug\HashTable.Tests.pdb

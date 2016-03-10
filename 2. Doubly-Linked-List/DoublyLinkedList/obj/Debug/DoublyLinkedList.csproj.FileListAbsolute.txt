@@ -1,0 +1,5 @@
+C:\Users\Joana\Downloads\2. Doubly-Linked-List\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\Joana\Downloads\2. Doubly-Linked-List\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Joana\Downloads\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Joana\Downloads\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\Joana\Downloads\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

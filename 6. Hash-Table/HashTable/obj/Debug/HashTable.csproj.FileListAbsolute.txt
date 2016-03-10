@@ -1,0 +1,4 @@
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable\bin\Debug\HashTable.exe
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable\bin\Debug\HashTable.pdb
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable\obj\Debug\HashTable.exe
+C:\Users\Joana\Downloads\6. Hash-Table\HashTable\obj\Debug\HashTable.pdb
