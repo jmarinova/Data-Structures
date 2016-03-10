@@ -1,0 +1,5 @@
+C:\Users\Joana\Downloads\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\Joana\Downloads\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\Joana\Downloads\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+C:\Users\Joana\Downloads\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\Joana\Downloads\CircularQueue\obj\Debug\CircularQueue.pdb
